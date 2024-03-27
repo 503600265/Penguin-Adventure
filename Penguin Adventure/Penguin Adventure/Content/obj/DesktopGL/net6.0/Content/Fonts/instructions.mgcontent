@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/Fonts/instructions.spritefont</SourceFile>
+  <SourceTime>2023-04-30T15:45:23.1939912-04:00</SourceTime>
+  <DestFile>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/bin/DesktopGL/Content/Fonts/instructions.xnb</DestFile>
+  <DestTime>2023-04-30T15:45:56.2386747-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

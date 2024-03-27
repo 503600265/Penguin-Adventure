@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/BatMovement.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/card.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/Controls/quitButton.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/Controls/startButton.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/Fonts/gameTitle.spritefont</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/Fonts/healthText.spritefont</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/Fonts/instructions.spritefont</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/Fonts/menuButtonFont.spritefont</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/Fox Sprite Sheet.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/FoxDie.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/FoxHit.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/FoxIdle.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/healthbar.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/penguin.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/snow tileset.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/SpiderIdle.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/sprites/down.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/sprites/left.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/sprites/left2.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/sprites/penguin_idle.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/sprites/penguin_run.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/sprites/right.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/sprites/right2.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/sprites/up.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/Weapons/Shuriken01.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/Weapons/Shuriken02.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/Weapons/Stick01.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/Weapons/Stick02.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/Weapons/Sword01.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/Weapons/Sword02.png</File>
+    <File>D:/1A-UVA/8-2023S/CS 4730/Penguin-Adventure/Penguin Adventure/Penguin Adventure/Content/WolfIdle.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>BatIdle.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

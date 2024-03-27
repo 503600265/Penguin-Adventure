@@ -1,0 +1,160 @@
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Penguin Adventure.exe
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Penguin Adventure.deps.json
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Penguin Adventure.runtimeconfig.json
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Penguin Adventure.dll
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Penguin Adventure.pdb
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.csproj.AssemblyReference.cache
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.GeneratedMSBuildEditorConfig.editorconfig
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.AssemblyInfoInputs.cache
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.AssemblyInfo.cs
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.csproj.CoreCompileInputs.cache
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.csproj.CopyComplete
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.dll
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\refint\Penguin Adventure.dll
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.pdb
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.genruntimeconfig.cache
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\ref\Penguin Adventure.dll
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\penguin.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\snow tileset.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Penguin Adventure.exe
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Penguin Adventure.deps.json
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Penguin Adventure.runtimeconfig.json
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Penguin Adventure.dll
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Penguin Adventure.pdb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\TiledCS.dll
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.csproj.AssemblyReference.cache
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.AssemblyInfoInputs.cache
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.AssemblyInfo.cs
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.csproj.CoreCompileInputs.cache
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.csproj.CopyComplete
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.dll
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\refint\Penguin Adventure.dll
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.pdb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.genruntimeconfig.cache
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\ref\Penguin Adventure.dll
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\map.tmx
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\snow tileset.tsx
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Fonts\gameTitle.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\penguin.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Penguin Adventure.exe
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Penguin Adventure.deps.json
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Penguin Adventure.runtimeconfig.json
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Penguin Adventure.dll
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Penguin Adventure.pdb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.csproj.AssemblyReference.cache
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.GeneratedMSBuildEditorConfig.editorconfig
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.AssemblyInfoInputs.cache
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.AssemblyInfo.cs
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.csproj.CoreCompileInputs.cache
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.csproj.CopyComplete
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.dll
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\refint\Penguin Adventure.dll
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.pdb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\Penguin Adventure.genruntimeconfig.cache
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\obj\Debug\net6.0\ref\Penguin Adventure.dll
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Controls\quitButton.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Controls\startButton.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Fonts\menuButtonFont.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Fonts\healthText.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\healthbar.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\card.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\down.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\left.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\left2.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\penguin_idle.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\penguin_run.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\right.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\right2.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\up.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\map.tmx
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\snow tileset.tsx
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\snow tileset.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\TiledCS.dll
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\map.tmx
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\snow tileset.tsx
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\card.xnb
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Controls\quitButton.xnb
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Controls\startButton.xnb
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Fonts\gameTitle.xnb
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Fonts\healthText.xnb
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Fonts\menuButtonFont.xnb
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\healthbar.xnb
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\penguin.xnb
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\snow tileset.xnb
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\down.xnb
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\left.xnb
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\left2.xnb
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\penguin_idle.xnb
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\penguin_run.xnb
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\right.xnb
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\right2.xnb
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\up.xnb
+E:\UVA\CS 4730\game-penguin-adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\TiledCS.dll
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\map720.tmx
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Fox Sprite Sheet.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\FoxDie.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\FoxHit.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\FoxIdle.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\WolfIdle.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\BatIdle.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\SpiderIdle.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\map720.tmx
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\BatIdle.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\card.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Controls\quitButton.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Controls\startButton.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Fonts\gameTitle.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Fonts\healthText.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Fonts\menuButtonFont.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Fox Sprite Sheet.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\FoxDie.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\FoxHit.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\FoxIdle.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\healthbar.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\SpiderIdle.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\down.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\left.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\left2.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\penguin_idle.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\penguin_run.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\right.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\right2.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\sprites\up.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\WolfIdle.xnb
+C:\Users\wyh00\Documents\GitHub\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\mapXL.tmx
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\mapXL.tmx
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Weapons\Stick01.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Weapons\Stick02.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Weapons\Sword01.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Weapons\Sword02.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Weapons\Shuriken01.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Weapons\Shuriken02.xnb
+D:\1A-UVA\8-2023S\CS 4730\Penguin-Adventure\Penguin Adventure\Penguin Adventure\bin\Debug\net6.0\Content\Fonts\instructions.xnb
